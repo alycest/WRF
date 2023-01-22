@@ -34,8 +34,8 @@
  map_proj = 'lambert',
  ref_lat   = -32.20,
  ref_lon   = 115.807,
- truelat1  = -32.20,
- truelat2  = -32.20,
+ truelat1  = -27.20,
+ truelat2  = -37.20,
  stand_lon = 115.807,
  geog_data_path = '/apps/GEOG/WPS_GEOG/'
 /
